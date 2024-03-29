@@ -53,4 +53,4 @@ const BtnTimer = (props) => {
     );
 };
 
-export { BtnTimer };
+export default BtnTimer ;
